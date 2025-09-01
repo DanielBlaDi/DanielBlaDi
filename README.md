@@ -10,10 +10,8 @@ https://github.com/DenverCoder1/readme-typing-svg
       alt="Typing SVG" />
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielBlaDi&label=Profile%20views&color=0e75b6&style=flat" alt="DanielBlaDi" /> </p>
 <summary><h2>About me</h2></summary>
-
-<p align="left"> <mg src="https://komarev.com/ghpvc/?username=DanielBlaDi&label=Profile%20views&color=0e75b6&style=flat" alt="DanielBlaDi" /> </p>
 
 
 - 🔭 I'm currently working manage my time better and achieve my personal goals.
