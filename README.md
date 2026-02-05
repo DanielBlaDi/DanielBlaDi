@@ -1,16 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Blanco Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-Creator of this awesome dynamically generated SVG:
-https://github.com/DenverCoder1/readme-typing-svg
--->
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=60F6FFA4&center=true&vCenter=true&width=435&lines=University+student;Curious+learner" 
-      alt="Typing SVG" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielBlaDi&label=Profile%20views&color=0e75b6&style=flat" alt="DanielBlaDi" /> </p>
 <summary><h2>About me</h2></summary>
 
 
@@ -87,20 +77,8 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 
 
-  <summary><h2>GitHub Stats</h2></summary>
-  <div align="center">
+
     
-<!--- stats & Trophy (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DanielBlaDi&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBlaDi&theme=dark&hide_border=false" /> 
-</td>
-</tr>
-</table>
   </div>
 
   
